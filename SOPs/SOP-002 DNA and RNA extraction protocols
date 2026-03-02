@@ -1,5 +1,6 @@
 At Mahaliana Labs, we follow standardized protocols for nucleic acid extraction according to the sample type:
- * ** Blood and tissue samples **: We use Zymo Quick-DNA Miniprep Plus Kit [https://files.zymoresearch.com/protocols/_d4068_d4069_quick-dna_miniprep_plus_kit.pdf]or DNeasy Blood & Tissue Kit [https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/dneasy-blood-and-tissue-kit]
+
+ * Blood and tissue samples: We use Zymo Quick-DNA Miniprep Plus Kit [https://files.zymoresearch.com/protocols/_d4068_d4069_quick-dna_miniprep_plus_kit.pdf]or DNeasy Blood & Tissue Kit [https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/dneasy-blood-and-tissue-kit]
  * Fecal or soil samples: We use Zymo Quick-DNA Fecal/Soil Microbes Miniprep kit [https://files.zymoresearch.com/protocols/_d6010_quick-dna_fecalsoil_microbe_miniprep_kit.pdf] or Qiagen QIAamp PowerFecal Pro DNA Kit. [https://www.qiagen.com/fr-fr/products/discovery-and-translational-research/dna-rna-purification/dna-purification/genomic-dna/qiaamp-powerfecal-pro-dna-kit]
 
 All samples are logged in our Airtable databank with accession number, sample metadata, and storage location (freezer/fridge ID, box, and spot). Extracted DNA/RNA is recorded in the DNA/RNA tab and linked to the PCR results for downstream analyses.
