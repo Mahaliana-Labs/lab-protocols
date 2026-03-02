@@ -72,9 +72,9 @@ After extraction:
   * Check the column: Extracted ✅ (This automatically creates a linked record in DNA/RNA table)
 
 This ensures:
-✅ extraction traceability
-✅ avoids duplicate entries
-✅ connects PCR results later
+* ✅ extraction traceability
+* ✅ avoids duplicate entries
+* ✅ connects PCR results later
 
 ## 5.5 PCR Result Entry
 PCR results must ONLY be entered from samples present in the DNA/RNA table
