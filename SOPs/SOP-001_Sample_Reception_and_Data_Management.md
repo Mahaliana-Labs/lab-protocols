@@ -3,11 +3,11 @@ To standardize the registration, inventory, tracking, and molecular processing o
 
 ## 2. Scope
 Applies to all biological samples received from:
-  -veterinarians
-  -research collaborators
-  -surveillance programs
-  -conservation projects
-  -diagnostic submissions
+  * veterinarians
+  * research collaborators
+  * surveillance programs
+  * conservation projects
+  * diagnostic submissions
 
 ## 3. Data Management Platform
 All samples are recorded in the Mahaliana Airtable database, which contains interconnected tables:
